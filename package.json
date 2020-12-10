@@ -60,6 +60,7 @@
         "zone.js": "0.10.2"
     },
     "devDependencies": {
+        "@types/babel__traverse": "7.0.6",
         "@typescript-eslint/eslint-plugin": "^4.8.0",
         "@typescript-eslint/parser": "^4.8.0",
         "babel-eslint": "^10.1.0",
